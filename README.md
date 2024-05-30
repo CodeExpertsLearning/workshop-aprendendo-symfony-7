@@ -20,7 +20,9 @@ Neste Workshop iremos praticar os conceitos do framework focado em um projeto de
 
 # Como me inscrever
 
-O Workshop irá custar apenas R$ 67,00 com limite de alunos e a inscrição será via PIX (Instruções abaixo) e encerrará no dia **30.05.2024**.
+O Workshop irá custar apenas R$ 67,00 com limite de alunos e a inscrição será via PIX (Instruções abaixo) e encerrará no dia **31.05.2024**.
+
+A partir do dia 01.06 o preço do Workshop será **R$97,00**
 
 O workshop será realizado via Zoom e contará com um grupo de apoio via Telegram.
 
