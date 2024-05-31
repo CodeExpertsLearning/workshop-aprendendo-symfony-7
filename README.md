@@ -32,4 +32,6 @@ O workshop será realizado via Zoom e contará com um grupo de apoio via Telegra
 2. Me notifique via whatsapp [aqui](https://bit.ly/3K3NHPB);
 3. Irei confirmar sua inscrição e te add no grupo do telegram.
 
+**PS.: Os participantes irão receber a gravação do Workshop.**
+
 Demais dúvidas entre em contato comigo via [Code Experts](https://codeexperts.com.br) via chat.
